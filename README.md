@@ -28,22 +28,27 @@ Create a -
 - You can leverage any non-Cloud platforms or Cloud Platforms (eg, AWS, Azure or GCP) to overlay your deployment diagram and leverage features from these platforms.
 
 ## Solutions 
-#Architecture 01 
+# Architecture 01 
+
 <img src="https://raw.githubusercontent.com/Md-Sanaul-Haque-Shanto/Microservice-Prototype/main/Architecture01.png" />
  Solution: This architecture uses Cloud Foundry resources with Spring, Elastic ecosystems along with Observability tools.
 
-#Architecture 02
+# Architecture 02
+
 <img src="https://raw.githubusercontent.com/Md-Sanaul-Haque-Shanto/Microservice-Prototype/main/Architecture04.png" />
  Solution: This architecture uses AWS native resources using mix of Serverless and non-Serverless resources.
 
-#Architecture 03 
+# Architecture 03 
+
 <img src="https://raw.githubusercontent.com/Md-Sanaul-Haque-Shanto/Microservice-Prototype/main/Architecture02.png" />
 Solution: This architecture uses Kubernetes and MongoDB.
 
-#Architecture 04 
+# Architecture 04 
+
 <img src="https://raw.githubusercontent.com/Md-Sanaul-Haque-Shanto/Microservice-Prototype/main/Architecture03.png" />
 Solution: This architecture is Cloud agnostic with mixture of different opensource tools including Observability capabilities.
 
-#Architecture 05 
+# Architecture 05 
+
 <img src="https://raw.githubusercontent.com/Md-Sanaul-Haque-Shanto/Microservice-Prototype/main/Architecture05.png" />
 Solution: This architecture is based on Spring ecosystem like cloud, security, observability.,etc. Along with Elastic solutions and Data stream processing with kafka also included. For Data Store here I used cassandra which is more partition tolerant, highly available and eventually consistent.
