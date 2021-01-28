@@ -50,5 +50,5 @@ Solution: This architecture is Cloud agnostic with mixture of different opensour
 
 # Architecture 05 
 
-<img src="https://raw.githubusercontent.com/Md-Sanaul-Haque-Shanto/Microservice-Prototype/main/Architecture05.png" />
+<img src="https://raw.githubusercontent.com/Md-Sanaul-Haque-Shanto/Microservice-Prototype/main/Architecture05.jpeg" />
 Solution: This architecture is based on Spring ecosystem like cloud, security, observability.,etc. Along with Elastic solutions and Data stream processing with kafka also included. For Data Store here I used cassandra which is more partition tolerant, highly available and eventually consistent.
